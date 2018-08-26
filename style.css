@@ -1,0 +1,10 @@
+body {
+	font-size: 24px;
+	font-family: Arial;
+}
+#new-todo {
+	width: 100%;
+	font-style: italic;
+}
+#todo-list li {
+}
