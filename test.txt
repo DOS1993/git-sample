@@ -1,3 +1,4 @@
 Test file 12345
 Add new line
 Second line
+Third line
